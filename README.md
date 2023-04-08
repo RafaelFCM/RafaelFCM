@@ -1,8 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Fiel Cruz Miranda
 
-Description: Web Dev, Java Dev, Analyst
+### Description
 
-Sou estudante de Sistemas de Informação pela FIAP. Estudo programação há um ano e meio, com foco em HTML, CSS, JavaScript, Java, Bootstrap, SQL Server, VBA, Git e GitHub Além da programação, estudo Rede de computadores, Métodos ágeis, Excel, Estatística, Canva, Figma e Photoshop.  * 🌍  I'm based in São Paulo, SP, Brasil * ✉️  You can contact me at [01rafamiranda@gmail.com](mailto:01rafamiranda@gmail.com) * 🧠  I'm learning BI, Power BI, Python e React * 🤝  I'm open to collaborating on Projetos interessantes, Projetos opensource, Mentorias de Web Dev e/ou Java Dev * ⚡  Sou apaixonado por tecnologia, sempre buscando apreender novas coisas
+Sou estudante de Sistemas de Informação pela FIAP
+
+Estudo programação há um ano e meio, com foco em HTML, CSS, JavaScript, Java, Bootstrap, SQL Server, VBA, Git e GitHub
+
+Também estudo Rede de computadores, Métodos ágeis, Excel, Estatística, Canva, Figma e Photoshop. 
+
+* 🌍  I'm based in São Paulo, SP, Brasil 
+* ✉️  You can contact me at [01rafamiranda@gmail.com](mailto:01rafamiranda@gmail.com) 
+* 🧠  I'm learning BI, Power BI, Python e React
+* 🧑‍💻  I'm looking for a Job
+* 🤝  I'm open to collaborating on Projetos opensource, Mentorias de Web Dev e/ou Java Dev 
+* ⚡  Sou apaixonado por tecnologia, sempre buscando apreender novas coisas
 
 ### Skills  
 
