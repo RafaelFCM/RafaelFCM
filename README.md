@@ -1,27 +1,24 @@
 <img align="center" height="200" style="" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Fiel Cruz Miranda
+Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo Rafael Fiel Cruz Miranda
 
-### Description
+### Descrição
 
-Sou estudante de Sistemas de Informação pela FIAP
+Sou um jovem determinado, proativo e ambicioso, sempre em busca de evolução pessoal e profissional. Minha paixão pela tecnologia me motiva a ampliar constantemente meus conhecimentos e a aprimorar minhas habilidades em um campo em constante crescimento. 
+Arualmente estou estudando Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP), estou na metade do curso. Também pratico softwares como Canva, Figma e Photoshop para criar apresentações e web designs. 
 
-Estudo programação há um ano e meio, com foco em HTML, CSS, JavaScript, Java, Bootstrap, SQL Server, VBA, Git e GitHub
-
-Também estudo Rede de computadores, Métodos ágeis, Excel, Estatística, Canva, Figma e Photoshop. 
-
-* 🌍  I'm based in São Paulo, SP, Brasil 
+* 🌍  Estou em São Paulo, SP, Brasil 
 * ✉️  You can contact me at [01rafamiranda@gmail.com](mailto:01rafamiranda@gmail.com) 
-* 🧠  I'm learning BI, Power BI, Python e React
-* 🧑‍💻  I'm looking for a Job
-* 🤝  I'm open to collaborating on Projetos opensource, Mentorias de Web Dev e/ou Java Dev 
+* 🧠  Estudando HTML, CSS, JavaScript, Java, Bootstrap, Oracle SQL, Excel (Macro e VBA), Estatística, Python, Git e GitHub, Hardware (teórico), Métodos Ágeis
+* 🧑‍💻  Procurando um trabalho, áreas de interesse como Desenvolvimento Web, Desenvolvimento Java, QA, Gerenciamento de Projetos, Finanças, Administração
+* 🤝  Interessado em colaborar com Projetos Opensource, Mentorias de Web Dev e/ou Java Dev 
 * ⚡  Sou apaixonado por tecnologia, sempre buscando apreender novas coisas
 
 ### Skills
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
 
-### Socials
+### Redes Sociais
 
 <p align="left"> <a href="https://discord.com/users/RafaelFiel01#2678" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelFCM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://instagram.com/rafa.fiel01?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaelfcmiranda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21127516/rafael-fiel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
