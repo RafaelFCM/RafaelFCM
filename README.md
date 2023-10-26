@@ -5,7 +5,7 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Descrição
 
 Sou um jovem determinado, proativo e ambicioso, sempre em busca de evolução pessoal e profissional. Minha paixão pela tecnologia me motiva a ampliar constantemente meus conhecimentos e a aprimorar minhas habilidades em um campo em constante crescimento. 
-Arualmente estou estudando Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP), estou na metade do curso. Também pratico softwares como Canva, Figma e Photoshop para criar apresentações e web designs. 
+Arualmente estou estudando Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP), estou na metade do curso.
 
 * 🌍  Estou em São Paulo, SP, Brasil 
 * ✉️  You can contact me at [01rafamiranda@gmail.com](mailto:01rafamiranda@gmail.com) 
