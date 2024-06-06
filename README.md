@@ -1,4 +1,4 @@
-<img align="center" height="200" style="" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 <div class="tenor-gif-embed" data-postid="282704938762721238" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238">Ai Bot Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Descrição
