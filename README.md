@@ -78,25 +78,20 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
 
 <p align="left"> 
 <a href="https://discord.com/users/rafaelfcm" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 10px;/>
 </a> 
 
 <a href="https://www.github.com/RafaelFCM" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px;/>
 </a> 
 
 <a href="https://instagram.com/rafa.fiel01?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 10px;/>
 </a> 
 
 <a href="https://www.linkedin.com/in/rafaelfcm" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 10px;/>
 </a> 
-
-<a href="https://www.linkedin.com/in/rafaelfcm" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" />
-</a> 
-
 </p>
 
 
