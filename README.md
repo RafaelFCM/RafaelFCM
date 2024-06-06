@@ -1,5 +1,5 @@
+![Logo do Projeto]([https://exemplo.com/logo.png](https://tenor.com/pt-BR/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238))
 
-<div class="tenor-gif-embed" data-postid="282704938762721238" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238">Ai Bot Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Descrição
 
