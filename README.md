@@ -90,13 +90,13 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
   </a>
 </p>
 
-### StackOverFlow Stats
+### StackOverflow Stats
 
-[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/dhanushka)
+[![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=000000)](https://stackoverflow.com/users/000000/AAAAAAA)
 
 ### LeetCode Stats
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AAAAAAAA)](https://github.com/rafaelfcm/github-readme)
 
 
 ### GitHub Stats
