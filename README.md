@@ -1,14 +1,12 @@
 <img align="center" height="200" style="" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo Rafael Fiel Cruz Miranda
-
 ### Descrição
 
-Sou um jovem determinado, proativo e ambicioso, sempre em busca de evolução pessoal e profissional. Minha paixão pela tecnologia me motiva a ampliar constantemente meus conhecimentos e a aprimorar minhas habilidades em um campo em constante crescimento. 
-Arualmente estou estudando Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP), estou na metade do curso.
+Olá, sou Rafael Fiel, um jovem determinado, proativo e ambicioso, sempre em busca de crescimento pessoal e profissional. Minha paixão por tecnologia me motiva a expandir constantemente meus conhecimentos e aprimorar minhas habilidades. Atualmente, estou no penúltimo ano do curso de Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
+
+Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. Algumas das minhas responsabilidades incluem auxiliar em projetos e implementação de melhorias contínuas utilizando a metodologia Agile, elaborar Road Maps para os diferentes negócios, desenvolver medidores de desempenho (KPIs) e relatórios gerenciais na área de TI, além de apoiar em procedimentos de controle e elaboração de contratos de fornecedores de TI. As principais ferramentas que uso no meu dia a dia são Excel, Power BI e SAP.
 
 * 🌍  Estou em São Paulo, SP, Brasil 
-* ✉️  You can contact me at [01rafamiranda@gmail.com](mailto:01rafamiranda@gmail.com) 
 * 🧠  Estudando HTML, CSS, JavaScript, Java, Bootstrap, Oracle SQL, Excel (Macro e VBA), Estatística, Python, Git e GitHub, Hardware (teórico), Métodos Ágeis
 * 🧑‍💻  Procurando um trabalho, áreas de interesse como Desenvolvimento Web, Desenvolvimento Java, QA, Gerenciamento de Projetos, Finanças, Administração
 * 🤝  Interessado em colaborar com Projetos Opensource, Mentorias de Web Dev e/ou Java Dev 
