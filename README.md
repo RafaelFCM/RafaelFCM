@@ -6,14 +6,10 @@ Olá, sou Rafael Fiel, um jovem determinado, proativo e ambicioso, sempre em bus
 
 Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. Algumas das minhas responsabilidades incluem auxiliar em projetos e implementação de melhorias contínuas utilizando a metodologia Agile, elaborar Road Maps para os diferentes negócios, desenvolver medidores de desempenho (KPIs) e relatórios gerenciais na área de TI, além de apoiar em procedimentos de controle e elaboração de contratos de fornecedores de TI. As principais ferramentas que uso no meu dia a dia são Excel, Power BI e SAP.
 
-* 🌍  Estou em São Paulo, SP, Brasil 
-* 🧠  Estudando HTML, CSS, JavaScript, Java, Bootstrap, Oracle SQL, Excel (Macro e VBA), Estatística, Python, Git e GitHub, Hardware (teórico), Métodos Ágeis
-* 🧑‍💻  Procurando um trabalho, áreas de interesse como Desenvolvimento Web, Desenvolvimento Java, QA, Gerenciamento de Projetos, Finanças, Administração
-* 🤝  Interessado em colaborar com Projetos Opensource, Mentorias de Web Dev e/ou Java Dev 
-* ⚡  Sou apaixonado por tecnologia, sempre buscando apreender novas coisas
+Áreas de interesse: Desenvolvimento, Gerenciamento de Projetos, Banco de Dados, Análise de Dados
 
-### Skills
-
+### Estou aprendendo
+HTML, CSS, JavaScript, Java, Bootstrap, Oracle SQL, Excel (Macro e VBA), Estatística, Python, Git e GitHub, Hardware (teórico), Métodos Ágeis
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -29,7 +25,7 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
 
 ### Redes Sociais
 
-<p align="left"> <a href="https://discord.com/users/rafaelfcm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelFCM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://instagram.com/rafa.fiel01?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaelfcm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21127516/rafael-fiel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/rafaelfcm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelFCM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://instagram.com/rafa.fiel01?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaelfcm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21127516/rafael-fiel" target="_blank" rel="noreferrer"><img 
 
 ### Badges
 
