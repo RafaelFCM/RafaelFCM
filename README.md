@@ -1,3 +1,5 @@
+### Sobre mim
+
 Olá, sou Rafael Fiel, um jovem determinado, proativo e ambicioso, sempre em busca de crescimento pessoal e profissional. Minha paixão por tecnologia me motiva a expandir constantemente meus conhecimentos e aprimorar minhas habilidades. Atualmente, estou no penúltimo ano do curso de Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 
 Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. Algumas das minhas responsabilidades incluem auxiliar em projetos e implementação de melhorias contínuas utilizando a metodologia Agile, elaborar Road Maps para os diferentes negócios, desenvolver medidores de desempenho (KPIs) e relatórios gerenciais na área de TI, além de apoiar em procedimentos de controle e elaboração de contratos de fornecedores de TI. As principais ferramentas que uso no meu dia a dia são Excel, Power BI e SAP.
