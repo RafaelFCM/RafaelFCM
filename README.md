@@ -1,4 +1,6 @@
-![Logo do Projeto]([https://exemplo.com/logo.png](https://tenor.com/pt-BR/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238))
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg" />
+          
 
 
 ### Descrição
