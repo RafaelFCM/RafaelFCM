@@ -1,11 +1,3 @@
-<a href="" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70"/>
-</a> 
-      
-
-
-### Descrição
-
 Olá, sou Rafael Fiel, um jovem determinado, proativo e ambicioso, sempre em busca de crescimento pessoal e profissional. Minha paixão por tecnologia me motiva a expandir constantemente meus conhecimentos e aprimorar minhas habilidades. Atualmente, estou no penúltimo ano do curso de Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 
 Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. Algumas das minhas responsabilidades incluem auxiliar em projetos e implementação de melhorias contínuas utilizando a metodologia Agile, elaborar Road Maps para os diferentes negócios, desenvolver medidores de desempenho (KPIs) e relatórios gerenciais na área de TI, além de apoiar em procedimentos de controle e elaboração de contratos de fornecedores de TI. As principais ferramentas que uso no meu dia a dia são Excel, Power BI e SAP.
@@ -16,6 +8,11 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
 
 HTML, CSS, JavaScript, Java, Bootstrap, Oracle SQL, Excel (Macro e VBA), Estatística, Python, Git e GitHub, Hardware (teórico), Métodos Ágeis
 <p align="left"> 
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70"/>
+</a> 
+
+      
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
@@ -42,6 +39,12 @@ HTML, CSS, JavaScript, Java, Bootstrap, Oracle SQL, Excel (Macro e VBA), Estatí
 
 <a href="https://www.linkedin.com/in/rafaelfcm" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+<a href="https://www.linkedin.com/in/rafaelfcm" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" /></a> 
+
+</p>
+
 
 ### Badges
 
