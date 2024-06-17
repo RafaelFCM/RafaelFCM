@@ -1,4 +1,4 @@
-### Sobre mim
+## Sobre mim
 
 Olá, sou Rafael Fiel, um jovem determinado, proativo e ambicioso, sempre em busca de crescimento pessoal e profissional. Minha paixão por tecnologia me motiva a expandir constantemente meus conhecimentos e aprimorar minhas habilidades. Atualmente, estou no penúltimo ano do curso de Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 
@@ -6,7 +6,10 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
 
 Áreas de interesse: Desenvolvimento, Gerenciamento de Projetos, Banco de Dados, Análise de Dados
 
-### Estou aprendendo
+## Portfolio
+Clique [aqui](https://github.com/RafaelFCM/Portfolio)
+
+## Estou aprendendo
 
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
@@ -56,7 +59,7 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
   </a>
 </p>
 
-### Outras ferramentas que gosto de usar
+## Outras ferramentas que gosto de usar
 
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
@@ -73,7 +76,7 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
   </a>
 </p>
 
-### Redes Sociais
+## Redes Sociais
 
 <p align="left">
   <a href="https://discord.com/users/rafaelfcm" target="_blank" rel="noreferrer">
@@ -90,16 +93,16 @@ Estou estagiando na empresa DSM-Firmenich como Digital Partner/Project Manager. 
   </a>
 </p>
 
-### StackOverflow Stats
+## StackOverflow Stats
 
 [![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=000000)](https://stackoverflow.com/users/000000/AAAAAAA)
 
-### LeetCode Stats
+## LeetCode Stats
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AAAAAAAA)](https://github.com/rafaelfcm/github-readme)
 
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <a href="http://www.github.com/RafaelFCM">
